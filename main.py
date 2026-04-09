@@ -34,7 +34,7 @@ pyautogui.click(x=532, y=311)
 pyautogui.hotkey("ctrl", "a")
 pyautogui.write("gusttavojaguar@gmail.com")
 pyautogui.press("tab")
-pyautogui.write("1235813")
+pyautogui.write("*******")
 pyautogui.press("enter")
 pyautogui.click(x=678, y=357)
 
